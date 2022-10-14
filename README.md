@@ -1,5 +1,7 @@
 # Sentiment-Analysis-on-Zomato-IPO-Tweets
-#INFO 5810 Section 001 - Data Analysis and Knowledge Discovery
+INFO 5810 Section 001 - Data Analysis and Knowledge Discovery
+
+
 Zomato had opened IPO in April, saying it plans to utilize the continues to finance development, 
 which may incorporate mergers or takeovers. Zomato is advertising 1.23 billion offers, esteeming 
 the IPO at 93.75 billion rupees. That incorporates issuing new offers worth up to 90 billion rupees 
